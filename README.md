@@ -1,4 +1,4 @@
-## Hi there, welcome to my github account. I am Yash Gupta, currently in the final year of my second masters degree (Master of Technology) at the Indian Insitute of Technology, Kanpur, India. My work primarily focuses on using Physics Informed Machine Learning to predict material behaviours.  
+## Hi there, welcome to my github account. I am Yash Gupta, currently in the final year of my second masters degree (Master of Technology) at the Indian Institute of Technology, Kanpur, India. My work primarily focuses on using Physics Informed Machine Learning to predict material behaviours.  
 
 <!--
 **Yashibm/Yashibm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
